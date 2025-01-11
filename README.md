@@ -67,31 +67,6 @@ The app uses the [Visual Crossing Weather API](https://www.visualcrossing.com/) 
 
 ---
 
-## Screenshots
-
-### Home Screen
-![Home Screen](assets/screenshots/home_screen.png)
-
-### History Screen
-![History Screen](assets/screenshots/history_screen.png)
-
-### Details Screen
-![Details Screen](assets/screenshots/details_screen.png)
-
----
-
-## Future Enhancements
-
-1. **Offline Access**:
-   - Cache weather data for offline viewing.
-
-2. **Location-based Weather**:
-   - Automatically fetch weather for the user's current location.
-
-3. **Enhanced UI/UX**:
-   - Add animations and transitions.
-
----
 
 ## Contributing
 
